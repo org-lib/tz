@@ -12,6 +12,8 @@
   3. 禁止未成年人浏览不健康的网页
   4. 禁止成年人散播非健康网页和内容
 
+# 安装：双击   xxx.dmg，后弹出界面 拖拽文件到applications
+  <img width="687" alt="image" src="https://user-images.githubusercontent.com/96509210/167457682-3b34cf5e-19b9-4178-be85-e695b33ef540.png">
 
 
 # 使用方法：
@@ -30,3 +32,10 @@
   <img width="220" alt="image" src="https://user-images.githubusercontent.com/96509210/167245178-6e473604-b4e5-4e87-ba7b-cb66f8181d3c.png">
 
   
+# 如果打开后有，如下异常
+
+  <img width="299" alt="image" src="https://user-images.githubusercontent.com/96509210/167454858-9e295d51-b4fa-49dc-b56a-7a7878119677.png">
+
+  请先去安全性与隐私允许允许（系统偏好设置->安全与隐私-> 通用-> 允许一下就好）
+  <img width="860" alt="image" src="https://user-images.githubusercontent.com/96509210/167455372-5dd3909c-9699-4025-8c55-bdc6b4b03e44.png">
+
