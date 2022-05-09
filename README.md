@@ -12,8 +12,11 @@
   3. 禁止未成年人浏览不健康的网页
   4. 禁止成年人散播非健康网页和内容
 
-# 安装：双击   xxx.dmg，后弹出界面 拖拽文件到applications
-  <img width="687" alt="image" src="https://user-images.githubusercontent.com/96509210/167457682-3b34cf5e-19b9-4178-be85-e695b33ef540.png">
+# 安装：
+  1. mac 电脑  双击   xxx.dmg ，后弹出界面 拖拽文件到applications
+    <img width="687" alt="image" src="https://user-images.githubusercontent.com/96509210/167457682-3b34cf5e-19b9-4178-be85-e695b33ef540.png">
+
+  2. Windows 电脑 解压zip 到你想放的目录后，双击exe就行了
 
 
 # 使用方法：
