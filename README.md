@@ -14,9 +14,10 @@
 
 # 安装：
   1. mac 电脑  双击   xxx.dmg ，后弹出界面 拖拽文件到applications
+  2. zip压缩包解压 并拖动app 到应用程序里
+    <img width="965" alt="image" src="https://user-images.githubusercontent.com/96509210/167600495-f3eece54-a78b-4810-96b5-bae37633bf27.png">
 
-  2. Windows 电脑 解压zip 到你想放的目录后，双击exe就行了
-
+  4. Windows 电脑 解压zip 到你想放的目录后，双击exe就行了
 
 # 使用方法：
   <img width="80" alt="image" src="https://user-images.githubusercontent.com/96509210/167245073-04b5fc15-ac7b-450e-a491-800a73618105.png">
