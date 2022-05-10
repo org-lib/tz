@@ -14,7 +14,6 @@
 
 # 安装：
   1. mac 电脑  双击   xxx.dmg ，后弹出界面 拖拽文件到applications
-    <img width="687" alt="image" src="https://user-images.githubusercontent.com/96509210/167457682-3b34cf5e-19b9-4178-be85-e695b33ef540.png">
 
   2. Windows 电脑 解压zip 到你想放的目录后，双击exe就行了
 
