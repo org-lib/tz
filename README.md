@@ -15,9 +15,7 @@
   4. 禁止成年人散播非健康网页和内容
 
 # 安装：
-  *** 实在想用，但是 app 又打不开怎么办。。。。参考下面的解决办法
-    https://zhuanlan.zhihu.com/p/90691938
-    
+
   1. mac 电脑  双击   xxx.dmg ，后弹出界面 拖拽文件到applications
   2. zip压缩包解压 并拖动app 到应用程序里
     <img width="965" alt="image" src="https://user-images.githubusercontent.com/96509210/167600495-f3eece54-a78b-4810-96b5-bae37633bf27.png">
@@ -54,3 +52,6 @@
    1 。等待一分钟，后，退出客户端，重新打开
    2 。联系管理员  shangguannihao@gmail.com
    
+  *** 实在想用，但是 app 又打不开怎么办。。。。参考下面的解决办法
+    https://zhuanlan.zhihu.com/p/90691938
+    <img width="1068" alt="image" src="https://user-images.githubusercontent.com/96509210/167794966-2f9e7ded-bfdc-4565-9812-2a99b90291c5.png">
